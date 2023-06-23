@@ -4,7 +4,7 @@ I completed my Associate of Arts Degree in Childhood and Co-Major in Psychology 
 Throughout the time in the TKH cybersecurity fellowship, I have participated and collaborate with my team to demonstrate an understanding and application of AWS services to build a secure lab in the AWS Cloud environment. As a final project for the cybersecurity fellowship. We creates groups and I join other students to colaborate for the capstone project. 
 
 <!--
-**mbarri0s/mbarri0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**mbarri0s/mbarri0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
