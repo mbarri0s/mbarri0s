@@ -6,7 +6,7 @@
  
 ## Hello my name is Mayra Castillo. I am currently a cyber security fellow, in the TKH Innovation Fellowship. 
 I completed my Associate of Arts Degree in Childhood and Co-Major in Psychology at LaGuardia Community College in Queens NY. My main experience is as an Assistant Teacher, but I am taking actions in my career development and I am currently a cyber security fellow, in the TKH Innovation Fellowship, learning the principles of cybersecurity networking and preforming security operations. I discovered my passion for technology when I started assisting family and friends to resolve issues with their tv, computer, phone, or electronics it make me start to change my field of focus in the technology development to apply my experience and soft skills. 
-Throughout the time in the TKH cybersecurity fellowship, I have participated and collaborate with my team to demonstrate an understanding and application of AWS services to build a secure lab in the AWS Cloud environment. As a final project for the cybersecurity fellowship. We creates groups and I join other students to colaborate for the [capstone project](https://github.com/cybertrainingrange).👯🌱
+Throughout the time in the TKH cybersecurity fellowship, I have participated and collaborate with my team to demonstrate an understanding and application of AWS services to build a secure lab in the AWS Cloud environment. As a final project for the cybersecurity fellowship. We creates groups and I join other students to colaborate for the [capstone project](https://github.com/cybertrainingrange/cybertraininingrange.io).👯🌱
 
 <!--
 **mbarri0s/mbarri0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
